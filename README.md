@@ -1,4 +1,4 @@
 # py_sys
 playing with python sys module with time and colorama
 
- ! [screenshot] (/Users/Antonio/Documents/images/tufte.book.jpg)
+ ! [screenshot] (https://github.com/gamer-snave/py_sys/blob/main/sshot.png)
