@@ -1,0 +1,1 @@
+print(r'thid \t is not good for you mouse \'s ')
