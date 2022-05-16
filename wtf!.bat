@@ -1,0 +1,1 @@
+@py.exe "C:\Users\Belyon\Desktop\scripts\wtf.py"
